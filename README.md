@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kiplinyu
-- 👀 I’m interested in Game Dev, UI/UX Design, Frontend Dev
+- 👀 I’m interested in Game Dev, UI/UX Design, Frontend Dev and mobile
 - 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Discord: kiplinyu]
